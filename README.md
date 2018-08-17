@@ -42,7 +42,7 @@ The images for camera calibration are stored in the folder called `camera_cal`. 
 
 In the following I will describe how I did each point in the implementation. 
 
-![Not important Gif](https://media.giphy.com/media/1TzKVQwH820wM/giphy.gif)
+![Not important Gif](https://media.giphy.com/media/3oz8xOJiQ9VtnOKAIU/source.gif)
 
 
 # Camera calibration 
